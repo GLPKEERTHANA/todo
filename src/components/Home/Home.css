@@ -1,0 +1,43 @@
+.logout{
+float:right;
+margin:10px 0px;
+}
+
+
+.div_l{
+float:left;
+color:red;
+}
+.div_r{
+float:right;
+color:red;
+}
+
+.todo-wrapper{
+margin: 20px auto 20px auto;
+width : 600px;
+min-height: 600px;
+border: 5px solid rgba(12,10,90,1.0);
+padding:20px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textcenter
+{
+text-align: center
+}
+
+.text1 {
+  border: 3px solid #555;
+  width : 45%;
+  margin: auto;
+}
+.login-c
+{
+margin-left:580px;
+}
+

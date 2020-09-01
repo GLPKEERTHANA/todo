@@ -1,0 +1,44 @@
+time{
+color:#666666 !important;
+font-size: 13px;
+font-family: 'Georgia', 'Times New Roman', Times, serif
+}
+input[type="text"]{
+height: 50px;
+}
+b{
+display: block
+}
+.people-you-might-know{
+padding:0 !important;
+margin-bottom:10px;
+border-radius: 5px;
+}
+.btn-color{
+background-color: blue;
+}
+
+
+.checkboxes {
+     }
+
+.checkboxes input{
+margin: 0px 0px 0px 0px;
+     }
+
+.checkboxes label{
+       margin: 0px 40px 0px 10px;
+}
+
+
+.centered {
+  height: 18vh; /* Magic here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width : 45%;
+  margin: auto;
+   padding: 10px;
+    margin-left: auto;
+  margin-right: auto;
+}

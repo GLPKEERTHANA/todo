@@ -1,0 +1,13 @@
+#welcomeText{
+font-weight: bold;
+font-size: 40px;
+text-align:center;
+}
+.login-class
+{
+position: absolute; right: 0;
+}
+.signup-class
+{
+position: absolute; right: 90px;
+}
